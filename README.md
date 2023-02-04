@@ -21,3 +21,5 @@
 <div align= center>
 <h3>A lista de propriedades de CSS será exibida no terminal, uma em cada linha, ordenadas de A-Z.</h3>
 </div>
+
+![tela result](https://user-images.githubusercontent.com/112362301/216742549-25970dfc-ddc0-49ac-ac7d-a6e4ff5b14b2.png)
