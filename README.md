@@ -9,7 +9,14 @@
 
 <h3>1 - Clone este repositório em sua máquina;</h3>
 <h3>2 - Abra o terminal e navegue até o diretório do projeto;</h3>
-<h3>3 - Instale as dependências necessárias executando o comando `npm install`;</h3>
-<h3>4 - Execute o código com o comando `npm init`;<h3>
-<h3>5 - 
-<h3>6 - Digite uma propriedade de CSS por linha. Para finalizar e exibir a lista ordenada, digite "SAIR";<h3>
+<h3>3 - Instale as dependências necessárias executando o comando `npm install` e `npm init`;</h3>
+<h3>4 - Execute o código com o comando `node ./index.js`;<h3>
+<h3>5 - Digite uma propriedade de CSS por linha. Para finalizar e exibir a lista ordenada, digite "SAIR";<h3>
+
+<br>
+
+<div align= center>
+<h1>Resultado</h1>
+</div>
+
+<h3>A lista de propriedades de CSS será exibida no terminal, uma em cada linha, ordenadas de A-Z.</h3>
