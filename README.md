@@ -19,4 +19,6 @@
 <h1>Resultado</h1>
 </div>
 
+<div align= center>
 <h3>A lista de propriedades de CSS será exibida no terminal, uma em cada linha, ordenadas de A-Z.</h3>
+</div>
