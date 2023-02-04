@@ -12,11 +12,10 @@
 <h3>3 - Instale as dependências necessárias executando o comando `npm install` e `npm init`;</h3>
 <h3>4 - Execute o código com o comando `node ./index.js`;<h3>
 <h3>5 - Digite uma propriedade de CSS por linha. Para finalizar e exibir a lista ordenada, digite "SAIR";<h3>
-
 <br>
-
 <div align= center>
 <h1>Resultado</h1>
+
 </div>
 
 <div align= center>
